@@ -18,7 +18,7 @@ This repo contains write-ups, homelabs, security experiments, and personal proje
 ## How to Use
 
 - Follow the **template files** in each section folder for consistent formatting.  
-- Include **dates, versions, and tags** in filenames for tracking: `challenge1_v1_2025-09-17.md
+- Include **dates, versions, and tags** in filenames for tracking: `challenge1_v1_2025-09-17.md`
 
 ## License
 
