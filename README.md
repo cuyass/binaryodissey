@@ -16,6 +16,8 @@ This repo contains write-ups, homelabs, security experiments, and personal proje
 
 ## License
 
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
+
 This content is licensed under the **Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)**.  
 You may copy, distribute, and modify the content for **non-commercial purposes**, provided you give appropriate credit.
 
