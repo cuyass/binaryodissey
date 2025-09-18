@@ -43,8 +43,10 @@ This repo contains write-ups, homelabs, security experiments, and personal proje
 
 ## How to Use
 
-- Follow the **template files** in each section folder for consistent formatting.  
-- Include **dates and version** in filenames if you want, but **tags are now managed in frontmatter**.
+- Use the **template files** in `/templates` for consistent formatting.  
+- Save notes inside the correct section folder.  
+- Filename format: ```name_v1_YYYY-MM-DD.md``` (date + version are optional, but recommended).  
+- **Tags, version, and date are managed in the frontmatter**, not in filenames.  
 
 ## License
 
