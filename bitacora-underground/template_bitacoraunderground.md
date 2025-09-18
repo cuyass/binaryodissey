@@ -1,7 +1,7 @@
 ---
 title: "Challenge name"
 section: "bitacora-underground"
-tags: ["CTF", "Web", "Crypto", "Pwn", etc.]
+tags: ["CTF", "Web", "Crypto", "Pwn"]
 date: YYYY-MM-DD
 version: v1
 status: draft

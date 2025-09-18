@@ -1,7 +1,7 @@
 ---
 title: "Note"
 section: "stealth-notes"
-tags: ["Idea", "Tip", "Observation", etc]
+tags: ["Idea", "Tip", "Observation"]
 date: YYYY-MM-DD
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Experiment name"
 section: "system-foundry"
-tags: ["Homelab", "esxi", "Network", "Virtualization", "Security", "Automation", etc]
+tags: ["Homelab", "esxi", "Network", "Virtualization", "Security", "Automation"]
 date: YYYY-MM-DD
 version: v1
 status: draft
