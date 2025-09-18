@@ -12,7 +12,7 @@ def extract_frontmatter(filepath):
         try:
             return yaml.safe_load(match.group(1)) or {}
         except yaml.YAMLError as e:
-            print(f"⚠️ Error leyendo frontmatter en {filepath}: {e}")
+            print(f"FATAL reading frontmatter in {filepath}: {e}")
     return {}
 
 def collect_tags(base_dir):
@@ -34,17 +34,17 @@ if __name__ == "__main__":
     tags, notes = collect_tags(base_dir)
 
     if len(sys.argv) == 1:
-        print("\n📌 Tags disponibles en el proyecto:\n")
+        print("\nAvailable tags:\n")
         for t in tags:
             print(f"- {t}")
-        print("\n👉 Usa: python tags_manager.py TAG para filtrar por un tag.")
+        print("\nUse: python tags_manager.py TAG to filter tags.")
     else:
         tag = sys.argv[1]
         results = [(title, path) for title, path, note_tags in notes if tag in note_tags]
 
         if results:
-            print(f"\nNotas con tag '{tag}':\n")
+            print(f"\nNotes with tag '{tag}':\n")
             for title, path in results:
                 print(f"- {title} ({path})")
         else:
-            print(f"\nNo se encontraron notas con tag '{tag}'.")
+            print(f"\nNo notes were found with tag '{tag}'.")
