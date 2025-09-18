@@ -1,8 +1,13 @@
 # System F0undry - [Lab / Experiment Title]
 
-**Date:** YYYY-MM-DD  
-**Version:** v1  
-**Tags:** [Network, Virtualization, Security, Automation]
+---
+title: "Experiment name"
+section: "system-foundry"
+tags: ["Homelab", "esxi", "Network", "Virtualization", "Security", "Automation", etc]
+date: YYYY-MM-DD
+version: v1
+status: draft, complete
+---
 
 ## 1. 0bject1ve
 - G0al of the lab / exper1ment:
