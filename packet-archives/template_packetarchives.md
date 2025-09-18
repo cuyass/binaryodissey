@@ -4,7 +4,7 @@ section: "packet-archives"
 tags: ["Guide", "Tips", "Cheatsheet", "Tool"]
 date: YYYY-MM-DD
 version: v1
-status: draft, complete
+status: draft
 ---
 
 # Packet arch1ves - [Guide Title]

@@ -4,7 +4,7 @@ section: "bitacora-underground"
 tags: ["CTF", "Web", "Crypto", "Pwn", etc.]
 date: YYYY-MM-DD
 version: v1
-status: draft, complete
+status: draft
 ---
 
 # B1tac0ra Undergr0und - [Title of Challenge]

@@ -4,7 +4,7 @@ section: "shadow-works"
 tags: ["Exploit", "Experiment", "Creative", "Hack"]
 date: YYYY-MM-DD
 version: v1
-status: draft, complete
+status: draft
 ---
 
 # Shad0w W0rks - [Project / Hack Title]

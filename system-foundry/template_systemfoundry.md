@@ -4,7 +4,7 @@ section: "system-foundry"
 tags: ["Homelab", "esxi", "Network", "Virtualization", "Security", "Automation", etc]
 date: YYYY-MM-DD
 version: v1
-status: draft, complete
+status: draft
 ---
 
 # System F0undry - [Lab / Experiment Title]

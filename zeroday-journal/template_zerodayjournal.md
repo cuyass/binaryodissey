@@ -4,7 +4,7 @@ section: "zeroday-journal"
 tags: ["Vulnerability", "PoC", "Security", "Research"]
 date: YYYY-MM-DD
 version: v1
-status: draft, complete
+status: draft
 ---
 
 # Zer0Day J0urnal - [Research / Vulnerability Title]
