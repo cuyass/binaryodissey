@@ -1,5 +1,3 @@
-# System F0undry - [Lab / Experiment Title]
-
 ---
 title: "Experiment name"
 section: "system-foundry"
@@ -8,6 +6,8 @@ date: YYYY-MM-DD
 version: v1
 status: draft, complete
 ---
+
+# System F0undry - [Lab / Experiment Title]
 
 ## 1. 0bject1ve
 - G0al of the lab / exper1ment:

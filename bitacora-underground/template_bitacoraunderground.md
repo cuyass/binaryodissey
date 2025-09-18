@@ -1,5 +1,3 @@
-# B1tac0ra Undergr0und - [Title of Challenge]
-
 ---
 title: "Challenge name"
 section: "bitacora-underground"
@@ -8,6 +6,8 @@ date: YYYY-MM-DD
 version: v1
 status: draft, complete
 ---
+
+# B1tac0ra Undergr0und - [Title of Challenge]
 
 ## 1. Rec0n
 - T00ls used:

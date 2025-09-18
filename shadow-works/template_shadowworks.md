@@ -1,8 +1,13 @@
-# Shad0w W0rks - [Project / Hack Title]
+---
+title: "[Project / Hack Title]"
+section: "shadow-works"
+tags: ["Exploit", "Experiment", "Creative", "Hack"]
+date: YYYY-MM-DD
+version: v1
+status: draft, complete
+---
 
-**Date:** YYYY-MM-DD  
-**Version:** v1  
-**Tags:** [Exploit, Experiment, Creative, Hack]
+# Shad0w W0rks - [Project / Hack Title]
 
 ## 1. 0bject1ve
 - Purp0se 0f pr0ject / hack:

@@ -1,8 +1,13 @@
-# Kernel F0rge - [Configuration Title]
+---
+title: "[Configuration Title]"
+section: "kernel-forge"
+tags: ["Hardening", "Security", "Linux", "Windows"]
+date: YYYY-MM-DD
+version: v1
+status: draft
+---
 
-**Date:** YYYY-MM-DD  
-**Version:** v1  
-**Tags:** [Hardening, Security, Linux, Windows]
+# Kernel F0rge - [Configuration Title]
 
 ## 1. 0bject1ve
 - Purp0se 0f c0nf1gurat10n / harden1ng:

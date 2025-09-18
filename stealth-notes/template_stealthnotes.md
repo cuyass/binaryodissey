@@ -1,8 +1,11 @@
-# Stealth N0tes - [Note Title]
+---
+title: "Note"
+section: "stealth-notes"
+tags: ["Idea", "Tip", "Observation", etc]
+date: YYYY-MM-DD
+---
 
-**Date:** YYYY-MM-DD  
-**Version:** v1  
-**Tags:** [Idea, Tip, Observation]
+# Stealth N0tes - [Note Title]
 
 ## N0tes
 - Qu1ck th0ughts:

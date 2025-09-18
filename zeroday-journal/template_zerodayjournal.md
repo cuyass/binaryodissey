@@ -1,8 +1,13 @@
-# Zer0Day J0urnal - [Research / Vulnerability Title]
+---
+title: "[Research / Vulnerability Title]"
+section: "zeroday-journal"
+tags: ["Vulnerability", "PoC", "Security", "Research"]
+date: YYYY-MM-DD
+version: v1
+status: draft, complete
+---
 
-**Date:** YYYY-MM-DD  
-**Version:** v1  
-**Tags:** [Vulnerability, PoC, Security, Research]
+# Zer0Day J0urnal - [Research / Vulnerability Title]
 
 ## 1. D1sc0very
 - H0w 1t was f0und / d1sc0very pr0cess:
