@@ -28,18 +28,33 @@
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢳⣿⣿⣿⣿⣿⣿⣿⣿⣤⣿⣿⣿⣿⣿⣦⠒⠉⢁⡀⠀⣙⣛⢿⣷⣶⣅⠀⠙⠻⣿⣿⣿⣿⣟⡚⠛⠻⠞⠿⠿⡿⡿⠯⠁⠟⣊⠾⠝⢋⣁⣀⣤⣤⣿⣿⣿⡿⠿⠿⠻⠛⠻⠻⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣟⣐⣾⡿⡟⢶⠾⢋⢹⠿⢿⣿⣿⣷⣦⡈⠙⠛⠿⠿⢿⣶⣶⣶⣶⣶⢶⠟⠚⠀⠁⠀⠀⠙⠛⠛⠛⠛⠛⠋⠉⠁⠀⠀⠀⠀⠀⠀⢀⠀⠀ ⠠⠹⣿⠟⠛⠉⠉⠉⠉⠙⠛
 ```
-Welcome to my underground write-up series, covering a bit of everything, starting September 2025.
-This repo contains write-ups, homelabs, security experiments, and personal projects.
+
+*A digital grimoire: an odyssey through challenges, labs, and hacker craft.*
+
+---
 
 ## Sections
 
-**Hexalog** – CTF / TryHackMe write-ups. Track challenges, solutions, and lessons learned.
-**Labyrinth** – Homelabs and experiments. Document lab setups, configurations, and results.
-**Rootcraft** – Security configurations & hardening. Guides and examples for securing systems.
-**Netgrim** – Notes, defs, topologies, protocols, configs, labs in a structured manner. Quick reference for ASIR, Cisco, and formal networking courses.
-**Phantasm** – Creative projects & personal hacks. Document experimental exploits and projects.
-**Exploitum** – Research, vulnerabilities, PoC. Capture findings, analyses, and proof-of-concept code.
-**Snipstack** – Quick references, cheat sheets, mini-guides, snippets, and fleeting ideas. Capture tips, tricks, and concepts from labs, tutorials, or random sparks of inspiration.
+### **EXPLOITUM** — *The tomes of zero-day*  
+Research vulnerabilities, analyze findings, and record PoCs and exploits.
+
+### **HEXALOG** — *The scrolls of challenges*  
+Track CTFs, TryHackMe, and lessons learned.
+
+### **LABYRINTH** — *Forge your experiments*  
+Document homelabs, configurations, and results of your technical explorations.
+
+### **NETGRIM** — *The library of networks*  
+Notes, definitions, topologies, protocols, configs, and labs from ASIR, Cisco, and formal networking courses. Quick reference at your fingertips.
+
+### **PHANTASM** — *Shadow workshop*  
+Creative projects and personal hacks; capture your experimental exploits.
+
+### **ROOTCRAFT** — *The codex of hardening*  
+Guides and examples for securing systems and reinforcing their core.
+
+### **SNIPSTACK** — *Fragments of knowledge*  
+Quick notes, mini-guides, cheats, and fleeting sparks of inspiration.
 
 ## How to Use
 
@@ -55,3 +70,6 @@ You may copy, distribute, and modify the content for **non-commercial purposes**
 
 For the full license text, see `LICENSE.txt`.
 
+---
+
+*Embark on your (non)Binary Odyssey. Explore, experiment, and conquer the digital realms.*

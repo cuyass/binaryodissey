@@ -2,4 +2,4 @@ get-pip.py
 venv/
 __pycache__/
 *.pyc
-stealth-notes/drafts/
+snipstack/drafts/
