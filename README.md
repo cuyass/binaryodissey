@@ -33,13 +33,13 @@ This repo contains write-ups, homelabs, security experiments, and personal proje
 
 ## Sections
 
-- **Bitácora Underground** – CTF / TryHackMe write-ups. Track challenges, solutions, and lessons learned.  
-- **System Foundry** – Homelabs and experiments. Document lab setups, configurations, and results.  
-- **Kernel Forge** – Security configurations & hardening. Guides and examples for securing systems.  
-- **Packet Archives** – Guides, mini tutorials, and notes. Quick references, cheat sheets, and tips.  
-- **Shadow Works** – Creative projects & personal hacks. Document experimental exploits and projects.  
-- **ZeroDay Journal** – Research, vulnerabilities, PoC. Capture findings, analyses, and proof-of-concept code.  
-- **Stealth Notes** – Quick notes & ideas. Capture fleeting thoughts, snippets, and ideas for future projects.
+**Hexalog** – CTF / TryHackMe write-ups. Track challenges, solutions, and lessons learned.
+**Labyrinth** – Homelabs and experiments. Document lab setups, configurations, and results.
+**Rootcraft** – Security configurations & hardening. Guides and examples for securing systems.
+**Netgrim** – Notes, defs, topologies, protocols, configs, labs in a structured manner. Quick reference for ASIR, Cisco, and formal networking courses.
+**Phantasm** – Creative projects & personal hacks. Document experimental exploits and projects.
+**Exploitum** – Research, vulnerabilities, PoC. Capture findings, analyses, and proof-of-concept code.
+**Snipstack** – Quick references, cheat sheets, mini-guides, snippets, and fleeting ideas. Capture tips, tricks, and concepts from labs, tutorials, or random sparks of inspiration.
 
 ## How to Use
 

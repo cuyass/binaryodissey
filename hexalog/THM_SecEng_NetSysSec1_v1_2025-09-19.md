@@ -1,6 +1,6 @@
 ---
 title: "Security Network Architecture"
-section: "bitacora-underground"
+section: "Hexalog"
 tags: ["THM", "Security"]
 date: 2025-09-19
 version: v1
