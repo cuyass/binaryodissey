@@ -1,13 +1,13 @@
 ---
 title: "Linux Essentials Chapter 1"
-section: "network-codex"
+section: "netgrim"
 tags: ["Cisco", "Linux", "Course", "Basics"]
 date: 2025-09-20
 version: v1
 status: complete
 ---
 
-# Netw0rk C0dex - L1nux Essent1als (chapter 1)
+# Netgrim - L1nux Essent1als (chapter 1)
 
 ## 1. 0verv1ew
 - C0urse: Linux Essentials
