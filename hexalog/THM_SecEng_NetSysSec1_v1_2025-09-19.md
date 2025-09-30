@@ -7,7 +7,7 @@ version: v1
 status: draft
 ---
 
-# B1tac0ra Undergr0und - [Security Network Architecture]
+# Hexalog - [Security Network Architecture]
 
 ## 1. Rec0n
 - T00ls used:
